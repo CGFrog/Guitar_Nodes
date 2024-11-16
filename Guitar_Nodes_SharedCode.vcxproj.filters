@@ -3390,7 +3390,7 @@
     <ClCompile Include="..\..\JuceLibraryCode\include_juce_gui_extra.cpp">
       <Filter>JUCE Library Code</Filter>
     </ClCompile>
-    <ClCompile Include="parent_node.cpp">
+    <ClCompile Include="dsp_nodes\parent_node.cpp">
       <Filter>Guitar_Nodes\Source\dsp_nodes</Filter>
     </ClCompile>
   </ItemGroup>
@@ -7307,7 +7307,7 @@
     <ClInclude Include="..\..\JuceLibraryCode\JucePluginDefines.h">
       <Filter>JUCE Library Code</Filter>
     </ClInclude>
-    <ClInclude Include="parent_node.h">
+    <ClInclude Include="dsp_nodes\parent_node.h">
       <Filter>Guitar_Nodes\Source\dsp_nodes</Filter>
     </ClInclude>
   </ItemGroup>
